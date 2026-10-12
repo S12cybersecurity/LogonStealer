@@ -1,0 +1,10 @@
+﻿  dllmain.cpp
+     Creating library C:\Users\s12de\Documents\Github\malwaretechniques\StealWindowsCreds\LocalCredStealerCP\x64\Release\LocalCredStealerCP.lib and object C:\Users\s12de\Documents\Github\malwaretechniques\StealWindowsCreds\LocalCredStealerCP\x64\Release\LocalCredStealerCP.exp
+LocalCredStealerCP.exp : warning LNK4070: /OUT:CredHookCP.dll directive in .EXP differs from output filename 'C:\Users\s12de\Documents\Github\malwaretechniques\StealWindowsCreds\LocalCredStealerCP\x64\Release\LocalCredStealerCP.dll'; ignoring directive
+  Generating code
+  13 of 46 functions (28.3%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+LocalCredStealerCP.exp : warning LNK4070: /OUT:CredHookCP.dll directive in .EXP differs from output filename 'C:\Users\s12de\Documents\Github\malwaretechniques\StealWindowsCreds\LocalCredStealerCP\x64\Release\LocalCredStealerCP.dll'; ignoring directive
+  LocalCredStealerCP.vcxproj -> C:\Users\s12de\Documents\Github\malwaretechniques\StealWindowsCreds\LocalCredStealerCP\x64\Release\LocalCredStealerCP.dll

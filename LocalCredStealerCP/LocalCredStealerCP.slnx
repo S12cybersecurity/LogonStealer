@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LocalCredStealerCP/LocalCredStealerCP.vcxproj" Id="b11dc778-9b67-4007-ba2f-4d879eed8528" />
+</Solution>
