@@ -53,3 +53,6 @@ Functions are resolved by **byte pattern scan** over the `.text` section of `Cre
 [CRED] 2026-10-12 10:07:04
   password: 1234
 ```
+
+<img width="623" height="319" alt="Screenshot from 2026-10-12 11-52-04" src="https://github.com/user-attachments/assets/00941938-9928-4eb6-8e53-e3b80f430d5e" />
+
